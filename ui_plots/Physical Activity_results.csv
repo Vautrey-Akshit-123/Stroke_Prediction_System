@@ -1,0 +1,4 @@
+,Model,Accuracy,Precision,Recall
+0,Logistic Regression,0.4045,0.16362025,0.4045
+1,Random Forest,0.3805,0.3638706393075796,0.3805
+2,SVM,0.393,0.2361492483897934,0.393
